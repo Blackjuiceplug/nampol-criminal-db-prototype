@@ -1,0 +1,27 @@
+
+{
+    
+    "username": "testofficer",
+    "password": "SecurePass123!",
+
+     
+    "adminusername": "admin",
+    "adminpassword": "admin123"
+}
+
+
+
+media/
+├── criminals/
+│   ├── f1daa32d-7fbf-4739-9264-9b5f031f7cf5/
+│   │   ├── images/
+│   │   │   └── profile.jpg
+│   │   ├── evidence/
+│   │   │   ├── crime_scene_photo1.jpg
+│   │   │   └── surveillance_video.mp4
+│   │   └── documents/
+│   │       ├── arrest_report.pdf
+│   │       └── fingerprint_scan.doc
+│   └── another-criminal-id/
+│       └── images/
+│           └── mugshot.png
