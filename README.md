@@ -151,7 +151,7 @@
 Language:        Python 3.9+
 Framework:       Django 4.2+
 API:             Django REST Framework (DRF)
-Database:        PostgreSQL 14+
+Database:        MYSQL 8+
 Authentication:  JWT (JSON Web Tokens)
 Storage:         AWS S3 / Local Storage
 Task Queue:      Celery + Redis
