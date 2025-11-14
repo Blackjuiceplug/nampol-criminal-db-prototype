@@ -584,13 +584,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📧 Contact
-
-**Developer:** Felix "Blackjuiceplug" Munjele  
-**Email:** mundjelefelix@gmail.com  
-**Location:** Windhoek, Namibia 🇳🇦  
-**GitHub:** [@Blackjuiceplug](https://github.com/Blackjuiceplug)
-
 ### Project Links
 
 - 🐛 [Report Issues](https://github.com/Blackjuiceplug/nampol-criminal-db-prototype/issues)
